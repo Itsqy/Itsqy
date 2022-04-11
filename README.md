@@ -5,4 +5,4 @@
 - 🏫 im currently studying at STIKOM Cipta Karya
 - 📫 How to reach me: 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad Rifqi Syatria)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsqy)](https://github.com/anuraghazra/github-readme-stats)
