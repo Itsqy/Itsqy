@@ -20,7 +20,7 @@
 <a href="https://dev.to/itsqy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="itsqy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad rifqi syatria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad rifqi syatria" height="30" width="40" /></a>
 <a href="https://instagram.com/q_yuuu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="q_yuuu3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/itsQodingtime!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsqodingtime!" height="30" width="40" /></a>
+<a href="https://www.youtube.com/itsQodingtime!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsqodingtime!" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
