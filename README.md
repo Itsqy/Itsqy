@@ -1,5 +1,11 @@
 ### Hi there 👋
+
+- 🎓 i used to study in Albinaa Islamic Boarding School 
 - 🌱 I’m currently learning PHP, Kotlin
+- 🏫 im currently studying at STIKOM Cipta Karya
+- 📫 How to reach me: 
+
+
 
 <!--
 **Itsqy/Itsqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
