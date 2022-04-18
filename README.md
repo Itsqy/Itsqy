@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **syatriarifqi@gmail.com**
 
-- ⚡ Fun fact **I think i am**
+- ⚡ Fun fact **I think i am pretty active but a little bit attractive**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
