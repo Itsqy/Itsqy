@@ -13,8 +13,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsqy&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt="itsqy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsqy&show_icons=true&locale=en" alt="itsqy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsqy&" alt="itsqy" /></p>
