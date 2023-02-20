@@ -5,4 +5,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsqy&" alt="itsqy" /></p>
 
-[![@risnanto73's Holopin board](https://holopin.me/risnanto73)](https://holopin.io/@itsqy)
+[![@risnanto73's Holopin board](https://holopin.me/itsqy)](https://holopin.io/@itsqy)
