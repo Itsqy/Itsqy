@@ -8,7 +8,7 @@
 ---
 
 ### 💫 About Me:
-- 🎓 **Graduate** of Apple Developer Academy @ ILP Batam (Class of 2025).
+- 🎓 **Graduate** of Apple Developer Academy @ ILB Batam (Class of 2025).
 - 📱 **Focus:** Crafting seamless mobile experiences with Kotlin and Swift.
 - 🛠️ **Current Venture:** Exploring advanced architecture and backend integration (Laravel/Redis).
 - 📍 **Based in:** Batam, Indonesia.
