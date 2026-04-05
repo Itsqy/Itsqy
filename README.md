@@ -2,11 +2,6 @@
   <h1>Hi 👋, I'm Muhammad Rifqi Syatria</h1>
   <p><strong>Mobile Developer | Apple Developer Academy '25 Graduate</strong></p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=itsqy&label=Profile%20views&color=0e75b6&style=flat-square" alt="itsqy" />
-    <img src="https://img.shields.io/github/followers/itsqy?label=Followers&style=flat-square&color=blue" alt="followers" />
-  </p>
-
   <p><i>Turning caffeine into code and mobile experiences.</i></p>
 </div>
 
